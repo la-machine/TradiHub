@@ -131,7 +131,7 @@ If you have any questions or feedback, feel free to contact us via frankpythagor
 ### Project Founders
 - [Youaleu Tchouassi Frank Loic](https://pythagore.vercel.app/) - Lead developer
 - [Vanya Toumi Bertomy]() - Backend developer
-- [Pelayah Epoupa]() - Frontend developer
+- [Pelayah Epoupa](https://github.com/Peliah) - Frontend developer
 - [Selapoue Noua Aimerick]() - Full stack developer
 - [Tchuente Yado Yvan]() - UI/UX and Full stack developer
 
